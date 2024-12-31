@@ -117,7 +117,7 @@ The dataset contains the following key columns:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Minalraj123/Data-Scince-Job-Salaries-Dashboard/tree/main
 
 ### Notes: 
 1. Replace placeholders like `<repository-url>`, `Minal Rajgire`, `minalrajgre969@gmail.com`, and `(https://www.linkedin.com/in/minal-rajgire-a49b14244?originalSubdomain=in)` with actual information.'
